@@ -1,0 +1,6 @@
+@AmazingFeatures_HostAddress = http://localhost:5039
+
+GET {{AmazingFeatures_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
